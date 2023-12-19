@@ -1,8 +1,7 @@
 ## Oi! Eu sou o Daniel Albuquerque 
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas (UNIP)
-- ⚡ Curiosidade: Estou migrando de carreira e atualmente buscando conhecimento e sempre aperfeiçoando para cada dia ser melhor.
-
+-Buscando conhecimento e sempre aperfeiçoando para cada dia ser melhor
 
 <div align="center">
   <a href="https://github.com/DaniellAlbuquerque">
