@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Daniel Albuquerque 
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas (UNIP)
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas pela (UNIP)
 -Buscando conhecimento e sempre aperfeiçoando para cada dia ser melhor
 
 <div align="center">
